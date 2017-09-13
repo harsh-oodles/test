@@ -1,4 +1,6 @@
 <?php 
-echo "hello world";
+include('header.php');
+include('footer.php');
+
 
 ?>
