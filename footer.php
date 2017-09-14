@@ -1,4 +1,4 @@
 <?php 
-echo "This is a footer"
+echo "This is a footer";
 
 ?>
